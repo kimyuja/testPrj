@@ -49,3 +49,5 @@ Time taken: 0.018 seconds, Fetched: 2 row(s)
 
 ## Copy Right
 2020.01 : kim yujeong <kiy102205@sookmyung.ac.kr>
+
+유정이 안녕
