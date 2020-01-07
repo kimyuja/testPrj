@@ -9,7 +9,7 @@ echo "3.87.48.81 master" >> /etc/hosts
 ```
 
 ### Keyfile
-* keyfile name : mykey.pem
+* keyfile name : Mydemo-keypair.pem
 ```
 $ ls 
 do.sh  hive_empdept.sh  Mydemo-keypair.pem
